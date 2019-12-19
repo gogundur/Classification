@@ -67,15 +67,15 @@
 'contact', 'month', 'day_of_week', 'poutcome', 'y'
 
 ### Visualizing – Continuous Variables
-![](https://github.com/gogundur/ml/blob/master/continous%20variables%20v1.png)
-![](https://github.com/gogundur/ml/blob/master/continous%20variables%20v2.png)
+![](https://github.com/gogundur/Classification/blob/master/images/continous%20variables%20v1.png)
+![](https://github.com/gogundur/Classification/blob/master/images/continous%20variables%20v2.png)
 
 ### Visualizing – Categorical Variables
-![](https://github.com/gogundur/ml/blob/master/categorical%20variables%20v1.png)
-![](https://github.com/gogundur/ml/blob/master/categorical%20variables%20v2.png)
+![](https://github.com/gogundur/Classification/blob/master/images/categorical%20variables%20v1.png)
+![](https://github.com/gogundur/Classification/blob/master/images/categorical%20variables%20v2.png)
 
 ### Correlations
-![](https://github.com/gogundur/ml/blob/master/correlations.png)
+![](https://github.com/gogundur/Classification/blob/master/images/correlations.png)
 
 ### Data Manipulation
 
@@ -109,20 +109,20 @@ In upsampling, for every observation in the majority class, we randomly select a
 ## Logistic Regression
 - We applied Logistic Regression algorithm which is the most commonly used algorithm for solving all classification problems.
 
-![](https://github.com/gogundur/ml/blob/master/logistic%20regression.png)
+![](https://github.com/gogundur/Classification/blob/master/images/logistic%20regression.png)
 
 ## K Nearest Neighbors
 - As the second algorithm, we used K Nearest neighbors which is widely used in classification problems because of Ease to interpret output, Calculation time, Predictive Power
-![](https://github.com/gogundur/ml/blob/master/knearest%20neighbors.png)
+![](https://github.com/gogundur/Classification/blob/master/images/knearest%20neighbors.png)
 
 ## Random Forest
 - As We applied the Random Forest as the third algorithm. RF are among the most popular ML methods because of their relatively good accuracy, robustness and ease of use.
 
-![](https://github.com/gogundur/ml/blob/master/random%20forest.png)
+![](https://github.com/gogundur/Classification/blob/master/images/random%20forest.png)
 
 - To get the feature importance scores, we used feature_importances_ function of RandomForestClassifier library. The most important feature of our dataset is X_factor.
 
-![](https://github.com/gogundur/ml/blob/master/random%20forest%20feature.png)
+![](https://github.com/gogundur/Classification/blob/master/images/random%20forest%20feature.png)
 
 ## Summary
     In conclusion, Logistic Regression algorithm has better performance than other algorithms. 
@@ -133,5 +133,6 @@ In upsampling, for every observation in the majority class, we randomly select a
     Max Accuracy (high accuracy predict the labeled values)
     Max Precision (high accuracy of positive predictions)
     Max Recall (high accuracy predict the target value)
-![](https://github.com/gogundur/ml/blob/master/summary.png)
+    
+![](https://github.com/gogundur/Classification/blob/master/images/summary.png)
 
